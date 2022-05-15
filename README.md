@@ -1,2 +1,2 @@
 # cp-resources
-This repository contains all the competitive programming related resources all at one place.
+This repository contains some of the resources used by me while doing the competitive programming at one place.
